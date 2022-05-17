@@ -8,18 +8,13 @@ This repo contains **outputs** and **scripts** folder.
 
 # Repository Contents
 
-**outputs**: All deliverbles from each section. Some files are ignored due to its large size.
+**outputs**: All deliverbles from programmer section. Some files are ignored due to its large size.
 
-**scripts**: Scripts for each roles. 
+**scripts**: Scripts for the programmer roles. 
 
 # Contributors
 
-Michael Peters - Data Curator: mppeters@bu.edu
-
 Mrugakshi Chidrawar - Programmer: mruga77@bu.edu
 
-Xiaojing Peng - Analyst: xjpeng@bu.edu
-
-Daniel Golden - Biologist: dgolden1@bu.edu
 
 
